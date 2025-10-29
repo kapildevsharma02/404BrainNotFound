@@ -1,3 +1,4 @@
+//checking the code show to khswtic bhai 
 package com.practice.arraylist;
 
 import java.util.ArrayList;
