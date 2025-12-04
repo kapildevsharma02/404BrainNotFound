@@ -1,4 +1,4 @@
-package com.practice.marix;
+package com.practice.matrix;
 
 import java.util.ArrayList;
 import java.util.Arrays;
