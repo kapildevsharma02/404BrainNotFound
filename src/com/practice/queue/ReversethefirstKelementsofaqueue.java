@@ -14,6 +14,7 @@ public class ReversethefirstKelementsofaqueue {
 		for (int a : queue) {
 			reverseQueue.add(a);
 		}
+		
 		int i = 0;
 		int j = k - 1;
 		swap(i, j, reverseQueue);
@@ -44,3 +45,4 @@ public class ReversethefirstKelementsofaqueue {
 		System.out.println(q1);
 	}
 }
+
