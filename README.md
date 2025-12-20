@@ -32,5 +32,3 @@ This repo is my personal coding journal, where I:
 - ✅ **Dynamic Programming** — Tabulation & Memoization  
 - ✅ **Sorting & Searching** — All major algorithms  
 - ✅ **Miscellaneous** — Bit manipulation, Math, Patterns  
-
-> Each folder contains **well-commented code** and **problem statements** for clarity.
