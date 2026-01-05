@@ -9,7 +9,6 @@ public class FindMinimumNumberOfCoins {
 		// Write your code here.
 		List<Integer> answer = new ArrayList<>();
 		int temp_copy = n;
-		int i = 0;
 		while (temp_copy != 0) {
 			if (temp_copy >= 1000) {
 				temp_copy -= 1000;
