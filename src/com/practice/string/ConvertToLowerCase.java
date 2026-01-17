@@ -1,6 +1,6 @@
 package com.practice.string;
 
-public class toLowerCase {
+public class ConvertToLowerCase {
 	public static String toLowerCase(String str) {
 		// Write your code here..
 		return str.toLowerCase();
